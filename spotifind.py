@@ -26,7 +26,7 @@ sp = spotipy.Spotify(
     )
 )
 
-subreddits = ["wizardbottest"]
+subreddits = ["testingground4bots"]
 
 # Loop that runs forever
 print('Running...')
