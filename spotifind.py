@@ -20,7 +20,7 @@ reddit = praw.Reddit(
 )
 
 sp = spotipy.Spotify(
-    client_credentials_manager=SpotifyClientCredentials(
+        client_credentials_manager=SpotifyClientCredentials(
         client_id=spotify_client_id,
         client_secret=spotify_secret_id,
     )
