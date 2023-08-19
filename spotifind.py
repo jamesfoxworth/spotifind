@@ -26,10 +26,11 @@ sp = spotipy.Spotify(
     )
 )
 
-subreddits = ["testingground4bots"]
+#Subreddits to check comments within. 
+subreddits = []
 
 # Loop that runs forever
-print('Running...')
+# print('Running...')
 while True:
 
     # Keep track of time to know when to sleep
