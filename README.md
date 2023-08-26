@@ -3,6 +3,8 @@ This is a small Reddit bot that searches for artists and songs on Spotify while 
 
 [u/Spotifind](https://www.reddit.com/u/Spotifind) will reply to comments under certain subreddits when users include the text "!spotifind" in their comment. The bot relies on [Spotipy](https://github.com/spotipy-dev/spotipy) and [PRAW](https://github.com/praw-dev/praw).
 
+The bot is hosted on Replit, but is not currently deployed because I don't want to pay for the reservexd VM lol
+
 ## Usage
 In order to call on the bot, include the text "!spotifind" anywhere in the post.
 * The bot will automatically search for all text within the comment except for "!spotifind".
