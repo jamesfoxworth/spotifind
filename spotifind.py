@@ -26,7 +26,8 @@ sp = spotipy.Spotify(
     )
 )
 
-#Subreddits to check comments within. 
+# Subreddits to check comments within. 
+# Blank for now, insert whatever is wanted
 subreddits = []
 
 # Loop that runs forever
